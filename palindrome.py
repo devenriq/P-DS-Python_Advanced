@@ -4,7 +4,7 @@ def is_palindromo(string: str) -> bool:
 
 
 def run():
-    print(is_palindromo('ana'))
+    print(is_palindromo(1000))
 
 
 if __name__ == "__main__":
